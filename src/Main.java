@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Verification.validata("user1111111", "user1235", "user1235");
     }
 }
